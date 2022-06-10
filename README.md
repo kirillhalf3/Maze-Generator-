@@ -11,4 +11,4 @@ and print out a sheet with a maze and the child calmly goes through the maze and
  * pygame
  * sys
  * random
-> made by kirillhalf3 & daggags
+> made by kirillhalf3 & daggag
